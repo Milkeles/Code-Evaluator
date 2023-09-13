@@ -1,0 +1,3 @@
+"1","2","3","4","5","6","7"|"Prints all days of the week successfully"|"Does not print all days successfully. Make sure the names of all days are spelled correctly!"
+"8","0","-1","-6"|"Handles non-existing days of the week"|"Does not handle days that don't exist. Make sure you have a default case!"
+"h","hello, world!","one"|"Handles non-number values"|"Does not handle non-number values. Make sure you use TryParse!"
